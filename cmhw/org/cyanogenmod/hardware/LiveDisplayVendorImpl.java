@@ -18,7 +18,7 @@ package org.cyanogenmod.hardware;
 
 import android.util.Log;
 
-import cyanogenmod.hardware.DisplayMode;
+import org.cyanogenmod.hardware.DisplayMode;
 
 /**
  * This class loads an implementation of the LiveDisplay native interface.
